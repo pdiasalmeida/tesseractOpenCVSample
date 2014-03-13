@@ -1,0 +1,8 @@
+# Eclipse project files
+.classpath
+.project
+.cproject
+
+# Built objects and executables
+*.o
+ocr_tesseract_ocv
